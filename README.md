@@ -40,10 +40,38 @@ Order summary
 
 📁 Folder Structure
 grocery-app/
+
+│
 ├── backend/
+
+│   ├── server.js
+
+│   ├── package.json
+
+│   ├── .env 
+
+│   ├── models/
+
+│   ├── routes/
+
+│   ├── controllers/
+
+│   └── config/
+│
+
 ├── frontend/
-├── docs/
-└── screenshots/
+
+│   ├── src/
+
+│   ├── public/
+
+│   ├── package.json
+
+│   └── vite.config.js
+
+│
+
+└── README.md  
 
 
 🏗 Architecture diagram 
