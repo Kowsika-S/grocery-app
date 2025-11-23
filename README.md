@@ -57,6 +57,7 @@ grocery-app/
 │   ├── controllers/
 
 │   └── config/
+
 │
 
 ├── frontend/
